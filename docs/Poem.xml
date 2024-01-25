@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	
 	<teiHeader>
 		<fileDesc>
@@ -38,11 +35,11 @@
 					<title type="subtitle">Sample Subtitle</title>
 				</head>
 				<lg cert="high" org="composite" part="Y" sample="initial" xml:lang="kr" xml:space="default">
-					<l>Turkish 1</l><l>Turkish 2</l><l>Kurdish 3</l>
+					<l>Turkish 1</l><l>Turkish 2</l><l>Turkish 3</l>
 				</lg>
 				
 			<lg cert="high" org="composite" part="Y" sample="initial" xml:lang="kr" xml:space="default">
-					<l>Kurdish 4</l><l>Kurdish 5</l><l>Kurdish 6</l>
+					<l>Turkish 4</l><l>Turkish 5</l><l>Turkish 6</l>
 				</lg></div></body>
 	</text>
 </TEI>
